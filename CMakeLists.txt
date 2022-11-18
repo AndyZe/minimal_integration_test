@@ -3,7 +3,6 @@ project(minimal_integration_test)
 
 set(THIS_PACKAGE_INCLUDE_DEPENDS
     rclcpp
-    rclcpp_action
 )
 
 find_package(ament_cmake REQUIRED)
