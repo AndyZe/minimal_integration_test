@@ -1,13 +1,3 @@
-## Minimal Integration Test
+## This repo has moved!
 
-To build the test:
-
-```
-colcon build
-```
-
-To run the test:
-
-```
-colcon test --packages-select minimal_integration_test
-```
+See [https://github.com/PickNikRobotics/ros_testing_templates](https://github.com/PickNikRobotics/ros_testing_templates)
